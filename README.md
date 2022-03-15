@@ -1,5 +1,5 @@
 ## Hello, my name is Leonardo Dias 👋<br>
-I'm a full-stack student, currently studying at Microverse.
+I'm a full-stack developer from Brazil.
 
 ### Contact me:
 <div>
