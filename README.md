@@ -1,5 +1,7 @@
 ## Hello, my name is Leonardo Dias 👋<br>
-I'm a full-stack developer from Brazil.
+ - I'm a full-stack developer from Brazil.
+ - I love programming and creating complex algorithms.
+ - In my spare time I like to travel and connect with nature.
 
 ### Contact me:
 <div>
